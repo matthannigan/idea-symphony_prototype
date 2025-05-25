@@ -84,6 +84,7 @@ streamlit run app/app.py
 ```
 
 ## Project Structure
+```
 idea-symphony/
 ├── backend/
 │ ├── app/
@@ -100,6 +101,7 @@ idea-symphony/
 │ └── requirements.txt
 ├── docker-compose.yml
 └── .env
+```
 
 ## API Endpoints
 
