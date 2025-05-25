@@ -1,0 +1,314 @@
+{
+    "idea_text": "A space-themed children's birthday party",
+    "create_context": {
+        "context": "A space-themed children's birthday party. This theme can be used for brainstorming ideas related to decorations, activities, food, and invitations appropriate party favors fit for a space adventure celebration among the stars. The event is tailored for children and should be engaging and fun, incorporating elements commonly associated with space exploration, planets, astronauts, and stars. The brainstorming should aim to create a memorable and exciting experience aligned with the chosen theme, suitable for a child's birthday celebration with elements like imaginative play and visual appeal."
+    },
+    "generate_questions": [
+        {
+          "question_groups": [
+            {
+              "heading": "Decorations & Ambiance",
+              "questions": [
+                {
+                  "short_summary": "How can we transform the party space into a convincing spaceship or alien planet?",
+                  "full_description": "Focus on turning the party area into a space-themed setting like a spaceship interior or a different planet, considering elements like lighting, backdrops, and suspended decorations to immerse children in the theme."
+                },
+                {
+                  "short_summary": "What visual elements can we use to create an immersive celestial atmosphere?",
+                  "full_description": "Think about incorporating stars, planets, galaxies, nebulae, and other cosmic visuals through projections, posters, cutouts, and color schemes to make the space feel like outer space."
+                }
+              ]
+            },
+            {
+              "heading": "Activities & Entertainment",
+              "questions": [
+                {
+                  "short_summary": "What space-themed games or challenges would engage young astronauts?",
+                  "full_description": "Develop interactive games or challenges based on space exploration, like a 'moon rock' hunt, astronaut training obstacle course, or building a rocket, ensuring they are fun and suitable for children."
+                },
+                {
+                  "short_summary": "How can we incorporate creative or craft activities related to space?",
+                  "full_description": "Brainstorm hands-on activities like decorating astronaut helmets, building mini rockets from craft supplies, or creating alien masks, allowing children to express creativity while staying on theme."
+                }
+              ]
+            },
+            {
+              "heading": "Food & Drinks",
+              "questions": [
+                {
+                  "short_summary": "What 'cosmic' or alien-inspired snacks and drinks can we serve?",
+                  "full_description": "Devise food and drink options with space-themed names or appearances, such as 'moon rocks' (cheese puffs), 'planet pops' (cake pops), 'galaxy punch' (layered drinks), making mealtime part of the adventure."
+                }
+              ]
+            },
+            {
+              "heading": "Invitations & Favors",
+              "questions": [
+                {
+                  "short_summary": "How can the invitations set the tone for an exciting space mission?",
+                  "full_description": "Design invitations that look like mission briefings, boarding passes for a space journey, or messages from alien planets, using thematic language and visuals to build anticipation for the space party."
+                },
+                {
+                  "short_summary": "What space-themed takeaways would make memorable party favors for kids?",
+                  "full_description": "Consider small items related to space that kids can take home, like toy rockets, glow-in-the-dark stars, astronaut figurines, or personalized 'astronaut licenses,' ensuring they are fun mementos of the space adventure."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_groups": [
+            {
+              "heading": "Decorations & Atmosphere",
+              "questions": [
+                {
+                  "short_summary": "Space transformation",
+                  "full_description": "What decorations, lighting, and setup elements can be used to transform the party venue into an immersive outer space environment, complete with stars, planets, and maybe even a spaceship feel?"
+                }
+              ]
+            },
+            {
+              "heading": "Activities & Entertainment",
+              "questions": [
+                {
+                  "short_summary": "Engaging space games",
+                  "full_description": "What interactive games, crafts, or activities can be planned that are directly related to space exploration, astronauts, planets, or aliens, ensuring they are fun and age-appropriate?"
+                },
+                {
+                  "short_summary": "Imaginative play",
+                  "full_description": "How can the party encourage imaginative play, such as building rocket ships out of boxes, going on a \"moon mission\" scavenger hunt, or pretending to be astronauts exploring a new planet?"
+                }
+              ]
+            },
+            {
+              "heading": "Food & Drinks",
+              "questions": [
+                {
+                  "short_summary": "Cosmic menu",
+                  "full_description": "What creative and visually appealing food and drink options can be designed to fit the space theme, using names or shapes related to planets, stars, rockets, or astronaut food?"
+                }
+              ]
+            },
+            {
+              "heading": "Invitations",
+              "questions": [
+                {
+                  "short_summary": "Invitation design",
+                  "full_description": "How can the party invitations be designed to immediately convey the space adventure theme, generating excitement among the young guests about the upcoming cosmic celebration?"
+                }
+              ]
+            },
+            {
+              "heading": "Party Favors",
+              "questions": [
+                {
+                  "short_summary": "Space favors",
+                  "full_description": "What small gifts or party favors can be prepared that are space-themed, memorable, and enjoyable for the children to take home as a reminder of their space adventure?"
+                }
+              ]
+            },
+            {
+              "heading": "Overall Party Experience",
+              "questions": [
+                {
+                  "short_summary": "Memorable experience",
+                  "full_description": "What elements can be incorporated throughout the party, from arrival to departure, to ensure the entire experience is cohesive, exciting, and truly memorable for the birthday child and guests, aligning perfectly with the space theme?"
+                },
+                {
+                  "short_summary": "Unique ideas",
+                  "full_description": "Beyond the standard decorations, activities, food, invitations, and favors, are there any unique or unexpected space-themed elements or surprises that could be added to make the party even more special and immersive?"
+                }
+              ]
+            }
+          ]
+        }
+    ],
+    "synthesize_questions": {
+        "question_groups": [
+          {
+            "heading": "Decorations & Ambiance",
+            "questions": [
+              {
+                "short_summary": "Transform space into spaceship/planet",
+                "full_description": "What decorations, lighting, and setup elements can be used to transform the party venue into an immersive outer space environment, complete with stars, planets, and maybe even a spaceship feel?"
+              },
+              {
+                "short_summary": "Visual elements for celestial atmosphere",
+                "full_description": "Think about incorporating stars, planets, galaxies, nebulae, and other cosmic visuals through projections, posters, cutouts, and color schemes to make the space feel like outer space."
+              }
+            ]
+          },
+          {
+            "heading": "Activities & Entertainment",
+            "questions": [
+              {
+                "short_summary": "Space-themed games or challenges",
+                "full_description": "Develop interactive games or challenges based on space exploration, like a 'moon rock' hunt, astronaut training obstacle course, or building a rocket, ensuring they are fun and suitable for children."
+              },
+              {
+                "short_summary": "Creative or craft activities related to space",
+                "full_description": "Brainstorm hands-on activities like decorating astronaut helmets, building mini rockets from craft supplies, or creating alien masks, allowing children to express creativity while staying on theme."
+              },
+              {
+                "short_summary": "Encourage imaginative play",
+                "full_description": "How can the party encourage imaginative play, such as building rocket ships out of boxes, going on a \"moon mission\" scavenger hunt, or pretending to be astronauts exploring a new planet?"
+              }
+            ]
+          },
+          {
+            "heading": "Food & Drinks",
+            "questions": [
+              {
+                "short_summary": "'Cosmic' or alien-inspired snacks and drinks",
+                "full_description": "Devise food and drink options with space-themed names or appearances, such as 'moon rocks' (cheese puffs), 'planet pops' (cake pops), 'galaxy punch' (layered drinks), making mealtime part of the adventure."
+              }
+            ]
+          },
+          {
+            "heading": "Invitations",
+            "questions": [
+              {
+                "short_summary": "Invitations set tone and generate excitement",
+                "full_description": "Design invitations that look like mission briefings, boarding passes for a space journey, or messages from alien planets, using thematic language and visuals to build anticipation for the space party."
+              }
+            ]
+          },
+          {
+            "heading": "Party Favors",
+            "questions": [
+              {
+                "short_summary": "Space-themed party favors",
+                "full_description": "Consider small items related to space that kids can take home, like toy rockets, glow-in-the-dark stars, astronaut figurines, or personalized 'astronaut licenses,' ensuring they are fun mementos of the space adventure."
+              }
+            ]
+          },
+          {
+            "heading": "Overall Party Experience",
+            "questions": [
+              {
+                "short_summary": "Ensure cohesive and memorable experience",
+                "full_description": "What elements can be incorporated throughout the party, from arrival to departure, to ensure the entire experience is cohesive, exciting, and truly memorable for the birthday child and guests, aligning perfectly with the space theme?"
+              },
+              {
+                "short_summary": "Unique or unexpected elements",
+                "full_description": "Beyond the standard decorations, activities, food, invitations, and favors, are there any unique or unexpected space-themed elements or surprises that could be added to make the party even more special and immersive?"
+              }
+            ]
+          }
+        ]
+    },
+    "chunk_questions": [
+        {
+          "heading": "Decorations & Ambiance",
+          "questions": [
+            {
+              "short_summary": "Transform space into spaceship/planet",
+              "full_description": "What decorations, lighting, and setup elements can be used to transform the party venue into an immersive outer space environment, complete with stars, planets, and maybe even a spaceship feel?"
+            },
+            {
+              "short_summary": "Visual elements for celestial atmosphere",
+              "full_description": "Think about incorporating stars, planets, galaxies, nebulae, and other cosmic visuals through projections, posters, cutouts, and color schemes to make the space feel like outer space."
+            }
+          ]
+        },
+        {
+          "heading": "Activities & Entertainment",
+          "questions": [
+            {
+              "short_summary": "Space-themed games or challenges",
+              "full_description": "Develop interactive games or challenges based on space exploration, like a 'moon rock' hunt, astronaut training obstacle course, or building a rocket, ensuring they are fun and suitable for children."
+            },
+            {
+              "short_summary": "Creative or craft activities related to space",
+              "full_description": "Brainstorm hands-on activities like decorating astronaut helmets, building mini rockets from craft supplies, or creating alien masks, allowing children to express creativity while staying on theme."
+            },
+            {
+              "short_summary": "Encourage imaginative play",
+              "full_description": "How can the party encourage imaginative play, such as building rocket ships out of boxes, going on a \"moon mission\" scavenger hunt, or pretending to be astronauts exploring a new planet?"
+            }
+          ]
+        },
+        {
+          "heading": "Food & Drinks",
+          "questions": [
+            {
+              "short_summary": "'Cosmic' or alien-inspired snacks and drinks",
+              "full_description": "Devise food and drink options with space-themed names or appearances, such as 'moon rocks' (cheese puffs), 'planet pops' (cake pops), 'galaxy punch' (layered drinks), making mealtime part of the adventure."
+            }
+          ]
+        },
+        {
+          "heading": "Invitations",
+          "questions": [
+            {
+              "short_summary": "Invitations set tone and generate excitement",
+              "full_description": "Design invitations that look like mission briefings, boarding passes for a space journey, or messages from alien planets, using thematic language and visuals to build anticipation for the space party."
+            }
+          ]
+        },
+        {
+          "heading": "Party Favors",
+          "questions": [
+            {
+              "short_summary": "Space-themed party favors",
+              "full_description": "Consider small items related to space that kids can take home, like toy rockets, glow-in-the-dark stars, astronaut figurines, or personalized 'astronaut licenses,' ensuring they are fun mementos of the space adventure."
+            }
+          ]
+        },
+        {
+          "heading": "Overall Party Experience",
+          "questions": [
+            {
+              "short_summary": "Ensure cohesive and memorable experience",
+              "full_description": "What elements can be incorporated throughout the party, from arrival to departure, to ensure the entire experience is cohesive, exciting, and truly memorable for the birthday child and guests, aligning perfectly with the space theme?"
+            },
+            {
+              "short_summary": "Unique or unexpected elements",
+              "full_description": "Beyond the standard decorations, activities, food, invitations, and favors, are there any unique or unexpected space-themed elements or surprises that could be added to make the party even more special and immersive?"
+            }
+          ]
+        }
+    ],
+    "brainstorm": [
+        [
+            {
+                "question": "Market Opportunity",
+                "answers": [
+                    "The market size is estimated at $500M annually",
+                    "Key growth drivers include increasing demand and technological advancement",
+                    "Primary market segments include enterprise and small business customers"
+                ]
+            },
+            {
+                "question": "Implementation Strategy",
+                "answers": [
+                    "Phase 1: MVP development with core features",
+                    "Phase 2: Beta testing with select customers",
+                    "Phase 3: Full market launch with marketing campaign"
+                ]
+            }
+        ],
+        [
+            {
+                "question": "Market Opportunity",
+                "answers": [
+                    "Competitive analysis shows 3 major players in the space",
+                    "Market is growing at 15% annually",
+                    "Opportunity to capture 20% market share in first year"
+                ]
+            },
+            {
+                "question": "Implementation Strategy",
+                "answers": [
+                    "Start with a lean team of 5 developers",
+                    "Use agile methodology for rapid iteration",
+                    "Focus on user feedback during development"
+                ]
+            }
+        ]
+    ],
+    "synthesize": {
+        "synthesized_content": "## Market Opportunity\n\nThe market analysis reveals a significant opportunity in a $500M annual market, growing at 15% per year. Key growth drivers include increasing demand and technological advancement. The competitive landscape shows 3 major players, presenting an opportunity to capture 20% market share in the first year.\n\n## Implementation Strategy\n\nThe recommended implementation approach involves a three-phase strategy:\n\n1. Phase 1: Develop an MVP with core features\n2. Phase 2: Conduct beta testing with select customers\n3. Phase 3: Execute a full market launch with marketing campaign\n\nThe development will be led by a lean team of 5 developers using agile methodology, with a strong focus on user feedback throughout the process.",
+        "attributed_content": "## Market Opportunity\n\n### Participant 1\n- The market size is estimated at $500M annually\n- Key growth drivers include increasing demand and technological advancement\n- Primary market segments include enterprise and small business customers\n\n### Participant 2\n- Competitive analysis shows 3 major players in the space\n- Market is growing at 15% annually\n- Opportunity to capture 20% market share in first year\n\n## Implementation Strategy\n\n### Participant 1\n- Phase 1: MVP development with core features\n- Phase 2: Beta testing with select customers\n- Phase 3: Full market launch with marketing campaign\n\n### Participant 2\n- Start with a lean team of 5 developers\n- Use agile methodology for rapid iteration\n- Focus on user feedback during development"
+    }
+}
